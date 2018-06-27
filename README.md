@@ -1,2 +1,2 @@
-# Defeb-MusicBot
-Bot using heroku 24/7!
+# Jukebox
+Bot using glitch 24/7!
